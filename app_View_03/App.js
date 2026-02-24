@@ -1,5 +1,5 @@
 /*
-CAPÍTULO 2 - DESAFIO 6
+CAPÍTULO 2 - DESAFIOS DE 7 A 8
 Bruno Carraro e Gustavo Lisboa
 */
 
