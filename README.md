@@ -11,4 +11,7 @@
     - Compreende os desafios de 1 a 5
 
 - app_View_02:
-    - Compreende os desafios de 6 a 8
+    - Compreende o desafio 6
+
+- app_View_03:
+    - Compreende os desafios de 7 a 8
