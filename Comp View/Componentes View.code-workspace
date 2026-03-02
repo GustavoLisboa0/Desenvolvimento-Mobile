@@ -1,10 +1,13 @@
-﻿{
+{
   "folders": [
     {
       "path": "app_View_01"
     },
     {
       "path": "app_View_02"
+    },
+    {
+      "path": "app_View_03"
     }
   ],
   "settings": {}
