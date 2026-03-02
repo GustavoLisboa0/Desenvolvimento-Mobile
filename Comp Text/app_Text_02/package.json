@@ -1,5 +1,5 @@
 {
-  "name": "app_text_01",
+  "name": "app_text_02",
   "license": "0BSD",
   "version": "1.0.0",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "react-native": "0.83.2",
-    "react-native-web": "~0.21.0"
+    "react-native-web": "^0.21.0"
   },
   "private": true
 }
