@@ -1,6 +1,15 @@
+/*
+COMPONENTE TEXT - DESAFIO 2
+Bruno Carraro e Gustavo Lisboa
+*/
+
+// Importando biblioteca
 import react from 'react';
+
+// Importando componentes react-native
 import {View, Text} from 'react-native';
 
+// Função principal - Manipulação Text
   function App() {
     return (
 
