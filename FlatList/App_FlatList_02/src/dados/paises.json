@@ -1,0 +1,10 @@
+[
+  { "id": "1", "pais": "Brasil", "capital": "Brasília" },
+  { "id": "2", "pais": "Argentina", "capital": "Buenos Aires" },
+  { "id": "3", "pais": "Chile", "capital": "Santiago" },
+  { "id": "4", "pais": "Paraguai", "capital": "Assunção" },
+  { "id": "5", "pais": "Uruguai", "capital": "Montevidéu" },
+  { "id": "6", "pais": "Estados Unidos", "capital": "Washington, D.C." },
+  { "id": "7", "pais": "Canadá", "capital": "Ottawa" },
+  { "id": "8", "pais": "México", "capital": "Cidade do México" }
+]
