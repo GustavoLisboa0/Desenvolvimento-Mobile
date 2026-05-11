@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "app08_StackNav_01",
+    "slug": "app08-stacknav-01",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
