@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Bruno Carraro",
+    "email": "bruno@email.com",
+    "telefone": "(41) 99111-1111",
+    "dataNasc": "15/03/2000",
+    "login": "bruno",
+    "senha": "1234"
+  },
+  {
+    "nome": "Gustavo Lisboa",
+    "email": "gustavo@email.com",
+    "telefone": "(41) 99222-2222",
+    "dataNasc": "22/07/1998",
+    "login": "gustavo",
+    "senha": "5678"
+  },
+  {
+    "nome": "Maria Silva",
+    "email": "maria@email.com",
+    "telefone": "(41) 99333-3333",
+    "dataNasc": "10/11/2001",
+    "login": "maria",
+    "senha": "abcd"
+  }
+]
